@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="8" title="filtered_tweet_count" type="long" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="dw_nominate" type="double" />
+      <attribute id="1" title="inferred_party" type="string" />
+      <attribute id="2" title="party" type="string" />
+      <attribute id="3" title="first_name" type="string" />
+      <attribute id="4" title="last_name" type="string" />
+      <attribute id="5" title="state" type="string" />
+      <attribute id="6" title="twitter_account" type="string" />
+      <attribute id="7" title="filtered_tweet_count" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>09/04/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="413466731" label="413466731">
+        <attvalues>
+          <attvalue for="0" value="-0.203" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Mary" />
+          <attvalue for="4" value="Landrieu" />
+          <attvalue for="5" value="LA" />
+          <attvalue for="6" value="SenLandrieu" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="486694111" label="486694111">
+        <attvalues>
+          <attvalue for="0" value="-0.382" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Jack" />
+          <attvalue for="4" value="Reed" />
+          <attvalue for="5" value="RI" />
+          <attvalue for="6" value="SenJackReed" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="16789970" label="16789970">
+        <attvalues>
+          <attvalue for="0" value="-0.276" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Harry" />
+          <attvalue for="4" value="Reid" />
+          <attvalue for="5" value="NV" />
+          <attvalue for="6" value="SenatorReid" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="413466731" target="413466731">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="16789970" target="486694111">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

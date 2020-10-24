@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="8" title="filtered_tweet_count" type="long" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="dw_nominate" type="double" />
+      <attribute id="1" title="inferred_party" type="string" />
+      <attribute id="2" title="party" type="string" />
+      <attribute id="3" title="first_name" type="string" />
+      <attribute id="4" title="last_name" type="string" />
+      <attribute id="5" title="state" type="string" />
+      <attribute id="6" title="twitter_account" type="string" />
+      <attribute id="7" title="filtered_tweet_count" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>09/04/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="224294785" label="224294785">
+        <attvalues>
+          <attvalue for="0" value="0.367" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Martha" />
+          <attvalue for="4" value="Roby" />
+          <attvalue for="5" value="AL" />
+          <attvalue for="6" value="RepMarthaRoby" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="22509548" label="22509548">
+        <attvalues>
+          <attvalue for="0" value="0.506" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Darrell" />
+          <attvalue for="4" value="Issa" />
+          <attvalue for="5" value="CA" />
+          <attvalue for="6" value="DarrellIssa" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="24183358" label="24183358">
+        <attvalues>
+          <attvalue for="0" value="0.504" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="John" />
+          <attvalue for="4" value="Culberson" />
+          <attvalue for="5" value="TX" />
+          <attvalue for="6" value="CongCulberson" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="15394954" label="15394954">
+        <attvalues>
+          <attvalue for="0" value="0.52" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Robert" />
+          <attvalue for="4" value="Latta" />
+          <attvalue for="5" value="OH" />
+          <attvalue for="6" value="BobLatta" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="229197216" label="229197216">
+        <attvalues>
+          <attvalue for="0" value="0.633" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="David" />
+          <attvalue for="4" value="Schweikert" />
+          <attvalue for="5" value="AZ" />
+          <attvalue for="6" value="RepDavid" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="33655490" label="33655490">
+        <attvalues>
+          <attvalue for="0" value="0.529" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Dennis" />
+          <attvalue for="4" value="Ross" />
+          <attvalue for="5" value="FL" />
+          <attvalue for="6" value="RepDennisRoss" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="1262814457" label="1262814457">
+        <attvalues>
+          <attvalue for="0" value="-0.275" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Tim" />
+          <attvalue for="4" value="Walz" />
+          <attvalue for="5" value="MN" />
+          <attvalue for="6" value="RepTimWalz" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="22812754" label="22812754">
+        <attvalues>
+          <attvalue for="0" value="-0.412" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Gregory" />
+          <attvalue for="4" value="Meeks" />
+          <attvalue for="5" value="NY" />
+          <attvalue for="6" value="RepGregoryMeeks" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="1055730738" label="1055730738">
+        <attvalues>
+          <attvalue for="0" value="-0.448" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Alan" />
+          <attvalue for="4" value="Lowenthal" />
+          <attvalue for="5" value="CA" />
+          <attvalue for="6" value="RepLowenthal" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="22509548" target="22509548">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="24183358" target="224294785">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="15394954" target="15394954">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="229197216" target="229197216">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="33655490" target="33655490">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="22812754" target="22812754">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="1055730738" target="1262814457">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

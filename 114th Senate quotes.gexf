@@ -1,0 +1,1885 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="8" title="filtered_tweet_count" type="long" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="dw_nominate" type="double" />
+      <attribute id="1" title="inferred_party" type="string" />
+      <attribute id="2" title="party" type="string" />
+      <attribute id="3" title="first_name" type="string" />
+      <attribute id="4" title="last_name" type="string" />
+      <attribute id="5" title="state" type="string" />
+      <attribute id="6" title="twitter_account" type="string" />
+      <attribute id="7" title="filtered_tweet_count" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>09/04/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="29201047" label="29201047">
+        <attvalues>
+          <attvalue for="0" value="-0.477" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Jeff" />
+          <attvalue for="4" value="Merkley" />
+          <attvalue for="5" value="OR" />
+          <attvalue for="6" value="SenJeffMerkley" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="242836537" label="242836537">
+        <attvalues>
+          <attvalue for="0" value="-0.371" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Patrick" />
+          <attvalue for="4" value="Leahy" />
+          <attvalue for="5" value="VT" />
+          <attvalue for="6" value="SenatorLeahy" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="224285242" label="224285242">
+        <attvalues>
+          <attvalue for="0" value="-0.207" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Michael" />
+          <attvalue for="4" value="Bennet" />
+          <attvalue for="5" value="CO" />
+          <attvalue for="6" value="SenBennetCo" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="75364211" label="75364211">
+        <attvalues>
+          <attvalue for="0" value="0.414" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Pat" />
+          <attvalue for="4" value="Roberts" />
+          <attvalue for="5" value="KS" />
+          <attvalue for="6" value="SenPatRoberts" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="72198806" label="72198806">
+        <attvalues>
+          <attvalue for="0" value="-0.398" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Kirsten" />
+          <attvalue for="4" value="Gillibrand" />
+          <attvalue for="5" value="NY" />
+          <attvalue for="6" value="SenGillibrand" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="1071402577" label="1071402577">
+        <attvalues>
+          <attvalue for="0" value="0.471" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Deb" />
+          <attvalue for="4" value="Fischer" />
+          <attvalue for="5" value="NE" />
+          <attvalue for="6" value="SenatorFischer" />
+          <attvalue for="7" value="6" />
+        </attvalues>
+      </node>
+      <node id="968650362" label="968650362">
+        <attvalues>
+          <attvalue for="0" value="0.611" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Tom" />
+          <attvalue for="4" value="Cotton" />
+          <attvalue for="5" value="AR" />
+          <attvalue for="6" value="SenTomCotton" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="18915145" label="18915145">
+        <attvalues>
+          <attvalue for="0" value="0.374" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Rob" />
+          <attvalue for="4" value="Portman" />
+          <attvalue for="5" value="OH" />
+          <attvalue for="6" value="SenRobPortman" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="21157904" label="21157904">
+        <attvalues>
+          <attvalue for="0" value="0.453" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Richard" />
+          <attvalue for="4" value="Burr" />
+          <attvalue for="5" value="NC" />
+          <attvalue for="6" value="SenatorBurr" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="2891210047" label="2891210047">
+        <attvalues>
+          <attvalue for="0" value="0.462" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Dan" />
+          <attvalue for="4" value="Sullivan" />
+          <attvalue for="5" value="AK" />
+          <attvalue for="6" value="SenDanSullivan" />
+          <attvalue for="7" value="3" />
+        </attvalues>
+      </node>
+      <node id="242555999" label="242555999">
+        <attvalues>
+          <attvalue for="0" value="-0.403" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Sheldon" />
+          <attvalue for="4" value="Whitehouse" />
+          <attvalue for="5" value="RI" />
+          <attvalue for="6" value="SenWhitehouse" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="29442313" label="29442313">
+        <attvalues>
+          <attvalue for="0" value="-0.518" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="I" />
+          <attvalue for="3" value="Bernard" />
+          <attvalue for="4" value="Sanders" />
+          <attvalue for="5" value="VT" />
+          <attvalue for="6" value="SenSanders" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="515822213" label="515822213">
+        <attvalues>
+          <attvalue for="0" value="-0.213" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Jon" />
+          <attvalue for="4" value="Tester" />
+          <attvalue for="5" value="MT" />
+          <attvalue for="6" value="SenatorTester" />
+          <attvalue for="7" value="4" />
+        </attvalues>
+      </node>
+      <node id="18061669" label="18061669">
+        <attvalues>
+          <attvalue for="0" value="0.207" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Lisa" />
+          <attvalue for="4" value="Murkowski" />
+          <attvalue for="5" value="AK" />
+          <attvalue for="6" value="LisaMurkowski" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="235217558" label="235217558">
+        <attvalues>
+          <attvalue for="0" value="0.456" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Cory" />
+          <attvalue for="4" value="Gardner" />
+          <attvalue for="5" value="CO" />
+          <attvalue for="6" value="SenCoryGardner" />
+          <attvalue for="7" value="6" />
+        </attvalues>
+      </node>
+      <node id="88784440" label="88784440">
+        <attvalues>
+          <attvalue for="0" value="0.924" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Mike" />
+          <attvalue for="4" value="Lee" />
+          <attvalue for="5" value="UT" />
+          <attvalue for="6" value="SenMikeLee" />
+          <attvalue for="7" value="4" />
+        </attvalues>
+      </node>
+      <node id="18632666" label="18632666">
+        <attvalues>
+          <attvalue for="0" value="0.414" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Jerry" />
+          <attvalue for="4" value="Moran" />
+          <attvalue for="5" value="KS" />
+          <attvalue for="6" value="JerryMoran" />
+          <attvalue for="7" value="12" />
+        </attvalues>
+      </node>
+      <node id="16789970" label="16789970">
+        <attvalues>
+          <attvalue for="0" value="-0.276" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Harry" />
+          <attvalue for="4" value="Reid" />
+          <attvalue for="5" value="NV" />
+          <attvalue for="6" value="SenatorReid" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="2955485182" label="2955485182">
+        <attvalues>
+          <attvalue for="0" value="0.389" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Mike" />
+          <attvalue for="4" value="Rounds" />
+          <attvalue for="5" value="SD" />
+          <attvalue for="6" value="SenatorRounds" />
+          <attvalue for="7" value="6" />
+        </attvalues>
+      </node>
+      <node id="1262099252" label="1262099252">
+        <attvalues>
+          <attvalue for="0" value="-0.401" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Brian" />
+          <attvalue for="4" value="Schatz" />
+          <attvalue for="5" value="HI" />
+          <attvalue for="6" value="SenBrianSchatz" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="16056306" label="16056306">
+        <attvalues>
+          <attvalue for="0" value="0.855" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Jeff" />
+          <attvalue for="4" value="Flake" />
+          <attvalue for="5" value="AZ" />
+          <attvalue for="6" value="JeffFlake" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="249787913" label="249787913">
+        <attvalues>
+          <attvalue for="0" value="-0.173" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Thomas" />
+          <attvalue for="4" value="Carper" />
+          <attvalue for="5" value="DE" />
+          <attvalue for="6" value="SenatorCarper" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="76649729" label="76649729">
+        <attvalues>
+          <attvalue for="0" value="0.323" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Lamar" />
+          <attvalue for="4" value="Alexander" />
+          <attvalue for="5" value="TN" />
+          <attvalue for="6" value="SenAlexander" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="1068481578" label="1068481578">
+        <attvalues>
+          <attvalue for="0" value="-0.15" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="I" />
+          <attvalue for="3" value="Angus" />
+          <attvalue for="4" value="King" />
+          <attvalue for="5" value="ME" />
+          <attvalue for="6" value="SenAngusKing" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="339822881" label="339822881">
+        <attvalues>
+          <attvalue for="0" value="0.404" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Mitch" />
+          <attvalue for="4" value="McConnell" />
+          <attvalue for="5" value="KY" />
+          <attvalue for="6" value="McConnellPress" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="60828944" label="60828944">
+        <attvalues>
+          <attvalue for="0" value="-0.453" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Tom" />
+          <attvalue for="4" value="Udall" />
+          <attvalue for="5" value="NM" />
+          <attvalue for="6" value="SenatorTomUdall" />
+          <attvalue for="7" value="3" />
+        </attvalues>
+      </node>
+      <node id="970207298" label="970207298">
+        <attvalues>
+          <attvalue for="0" value="-0.776" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Elizabeth" />
+          <attvalue for="4" value="Warren" />
+          <attvalue for="5" value="MA" />
+          <attvalue for="6" value="SenWarren" />
+          <attvalue for="7" value="3" />
+        </attvalues>
+      </node>
+      <node id="5558312" label="5558312">
+        <attvalues>
+          <attvalue for="0" value="0.401" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="John" />
+          <attvalue for="4" value="Boozman" />
+          <attvalue for="5" value="AR" />
+          <attvalue for="6" value="JohnBoozman" />
+          <attvalue for="7" value="20" />
+        </attvalues>
+      </node>
+      <node id="202206694" label="202206694">
+        <attvalues>
+          <attvalue for="0" value="0.53" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="John" />
+          <attvalue for="4" value="Barrasso" />
+          <attvalue for="5" value="WY" />
+          <attvalue for="6" value="SenJohnBarrasso" />
+          <attvalue for="7" value="4" />
+        </attvalues>
+      </node>
+      <node id="109071031" label="109071031">
+        <attvalues>
+          <attvalue for="0" value="-0.327" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Benjamin" />
+          <attvalue for="4" value="Cardin" />
+          <attvalue for="5" value="MD" />
+          <attvalue for="6" value="SenatorCardin" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="236511574" label="236511574">
+        <attvalues>
+          <attvalue for="0" value="-0.236" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Gary" />
+          <attvalue for="4" value="Peters" />
+          <attvalue for="5" value="MI" />
+          <attvalue for="6" value="SenGaryPeters" />
+          <attvalue for="7" value="3" />
+        </attvalues>
+      </node>
+      <node id="21406834" label="21406834">
+        <attvalues>
+          <attvalue for="0" value="-0.503" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Edward" />
+          <attvalue for="4" value="Markey" />
+          <attvalue for="5" value="MA" />
+          <attvalue for="6" value="SenMarkey" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="2962923040" label="2962923040">
+        <attvalues>
+          <attvalue for="0" value="0.813" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Ben" />
+          <attvalue for="4" value="Sasse" />
+          <attvalue for="5" value="NE" />
+          <attvalue for="6" value="SenSasse" />
+          <attvalue for="7" value="3" />
+        </attvalues>
+      </node>
+      <node id="233737858" label="233737858">
+        <attvalues>
+          <attvalue for="0" value="0.6" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Ron" />
+          <attvalue for="4" value="Johnson" />
+          <attvalue for="5" value="WI" />
+          <attvalue for="6" value="SenRonJohnson" />
+          <attvalue for="7" value="3" />
+        </attvalues>
+      </node>
+      <node id="20546536" label="20546536">
+        <attvalues>
+          <attvalue for="0" value="0.552" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="James" />
+          <attvalue for="4" value="Inhofe" />
+          <attvalue for="5" value="OK" />
+          <attvalue for="6" value="InhofePress" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="92186819" label="92186819">
+        <attvalues>
+          <attvalue for="0" value="-0.489" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Mazie" />
+          <attvalue for="4" value="Hirono" />
+          <attvalue for="5" value="HI" />
+          <attvalue for="6" value="MazieHirono" />
+          <attvalue for="7" value="4" />
+        </attvalues>
+      </node>
+      <node id="382791093" label="382791093">
+        <attvalues>
+          <attvalue for="0" value="0.34" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="John" />
+          <attvalue for="4" value="Hoeven" />
+          <attvalue for="5" value="ND" />
+          <attvalue for="6" value="SenJohnHoeven" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="43910797" label="43910797">
+        <attvalues>
+          <attvalue for="0" value="-0.438" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Sherrod" />
+          <attvalue for="4" value="Brown" />
+          <attvalue for="5" value="OH" />
+          <attvalue for="6" value="SenSherrodBrown" />
+          <attvalue for="7" value="4" />
+        </attvalues>
+      </node>
+      <node id="1074480192" label="1074480192">
+        <attvalues>
+          <attvalue for="0" value="0.836" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Ted" />
+          <attvalue for="4" value="Cruz" />
+          <attvalue for="5" value="TX" />
+          <attvalue for="6" value="SenTedCruz" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="266133081" label="266133081">
+        <attvalues>
+          <attvalue for="0" value="0.464" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Dean" />
+          <attvalue for="4" value="Heller" />
+          <attvalue for="5" value="NV" />
+          <attvalue for="6" value="SenDeanHeller" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="1061029050" label="1061029050">
+        <attvalues>
+          <attvalue for="0" value="-0.122" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Heidi" />
+          <attvalue for="4" value="Heitkamp" />
+          <attvalue for="5" value="ND" />
+          <attvalue for="6" value="SenatorHeitkamp" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="19726613" label="19726613">
+        <attvalues>
+          <attvalue for="0" value="0.109" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Susan" />
+          <attvalue for="4" value="Collins" />
+          <attvalue for="5" value="ME" />
+          <attvalue for="6" value="SenatorCollins" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="225921757" label="225921757">
+        <attvalues>
+          <attvalue for="0" value="0.572" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="James" />
+          <attvalue for="4" value="Lankford" />
+          <attvalue for="5" value="OK" />
+          <attvalue for="6" value="SenatorLankford" />
+          <attvalue for="7" value="9" />
+        </attvalues>
+      </node>
+      <node id="264219447" label="264219447">
+        <attvalues>
+          <attvalue for="0" value="0.377" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Roger" />
+          <attvalue for="4" value="Wicker" />
+          <attvalue for="5" value="MS" />
+          <attvalue for="6" value="SenatorWicker" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="7429102" label="7429102">
+        <attvalues>
+          <attvalue for="0" value="-0.193" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Mark" />
+          <attvalue for="4" value="Warner" />
+          <attvalue for="5" value="VA" />
+          <attvalue for="6" value="MarkWarner" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="76456274" label="76456274">
+        <attvalues>
+          <attvalue for="0" value="-0.328" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Debbie" />
+          <attvalue for="4" value="Stabenow" />
+          <attvalue for="5" value="MI" />
+          <attvalue for="6" value="SenStabenow" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="2964174789" label="2964174789">
+        <attvalues>
+          <attvalue for="0" value="0.429" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Thom" />
+          <attvalue for="4" value="Tillis" />
+          <attvalue for="5" value="NC" />
+          <attvalue for="6" value="senthomtillis" />
+          <attvalue for="7" value="28" />
+        </attvalues>
+      </node>
+      <node id="109287731" label="109287731">
+        <attvalues>
+          <attvalue for="0" value="-0.257" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Jeanne" />
+          <attvalue for="4" value="Shaheen" />
+          <attvalue for="5" value="NH" />
+          <attvalue for="6" value="SenatorShaheen" />
+          <attvalue for="7" value="3" />
+        </attvalues>
+      </node>
+      <node id="13218102" label="13218102">
+        <attvalues>
+          <attvalue for="0" value="0.496" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="John" />
+          <attvalue for="4" value="Cornyn" />
+          <attvalue for="5" value="TX" />
+          <attvalue for="6" value="JohnCornyn" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="132278386" label="132278386">
+        <attvalues>
+          <attvalue for="0" value="-0.37" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Barbara" />
+          <attvalue for="4" value="Mikulski" />
+          <attvalue for="5" value="MD" />
+          <attvalue for="6" value="SenatorBarb" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="57065141" label="57065141">
+        <attvalues>
+          <attvalue for="0" value="-0.144" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Claire" />
+          <attvalue for="4" value="McCaskill" />
+          <attvalue for="5" value="MO" />
+          <attvalue for="6" value="McCaskillOffice" />
+          <attvalue for="7" value="18" />
+        </attvalues>
+      </node>
+      <node id="296361085" label="296361085">
+        <attvalues>
+          <attvalue for="0" value="0.409" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="John" />
+          <attvalue for="4" value="Thune" />
+          <attvalue for="5" value="SD" />
+          <attvalue for="6" value="SenJohnThune" />
+          <attvalue for="7" value="3" />
+        </attvalues>
+      </node>
+      <node id="2863210809" label="2863210809">
+        <attvalues>
+          <attvalue for="0" value="0.623" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="David" />
+          <attvalue for="4" value="Perdue" />
+          <attvalue for="5" value="GA" />
+          <attvalue for="6" value="sendavidperdue" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="216503958" label="216503958">
+        <attvalues>
+          <attvalue for="0" value="-0.119" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Joe" />
+          <attvalue for="4" value="Donnelly" />
+          <attvalue for="5" value="IN" />
+          <attvalue for="6" value="SenDonnelly" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+      <node id="600463589" label="600463589">
+        <attvalues>
+          <attvalue for="0" value="0.508" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Michael" />
+          <attvalue for="4" value="Crapo" />
+          <attvalue for="5" value="ID" />
+          <attvalue for="6" value="MikeCrapo" />
+          <attvalue for="7" value="3" />
+        </attvalues>
+      </node>
+      <node id="78403308" label="78403308">
+        <attvalues>
+          <attvalue for="0" value="0.403" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Johnny" />
+          <attvalue for="4" value="Isakson" />
+          <attvalue for="5" value="GA" />
+          <attvalue for="6" value="SenatorIsakson" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="1099199839" label="1099199839">
+        <attvalues>
+          <attvalue for="0" value="-0.297" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Martin" />
+          <attvalue for="4" value="Heinrich" />
+          <attvalue for="5" value="NM" />
+          <attvalue for="6" value="MartinHeinrich" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="171968009" label="171968009">
+        <attvalues>
+          <attvalue for="0" value="-0.4" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Al" />
+          <attvalue for="4" value="Franken" />
+          <attvalue for="5" value="MN" />
+          <attvalue for="6" value="SenFranken" />
+          <attvalue for="7" value="6" />
+        </attvalues>
+      </node>
+      <node id="11651202" label="11651202">
+        <attvalues>
+          <attvalue for="0" value="0.543" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Steve" />
+          <attvalue for="4" value="Daines" />
+          <attvalue for="5" value="MT" />
+          <attvalue for="6" value="SteveDaines" />
+          <attvalue for="7" value="7" />
+        </attvalues>
+      </node>
+      <node id="217543151" label="217543151">
+        <attvalues>
+          <attvalue for="0" value="0.655" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Tim" />
+          <attvalue for="4" value="Scott" />
+          <attvalue for="5" value="SC" />
+          <attvalue for="6" value="SenatorTimScott" />
+          <attvalue for="7" value="13" />
+        </attvalues>
+      </node>
+      <node id="150078976" label="150078976">
+        <attvalues>
+          <attvalue for="0" value="-0.308" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Christopher" />
+          <attvalue for="4" value="Murphy" />
+          <attvalue for="5" value="CT" />
+          <attvalue for="6" value="ChrisMurphyCT" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="21269970" label="21269970">
+        <attvalues>
+          <attvalue for="0" value="0.43" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Roy" />
+          <attvalue for="4" value="Blunt" />
+          <attvalue for="5" value="MO" />
+          <attvalue for="6" value="RoyBlunt" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="15442036" label="15442036">
+        <attvalues>
+          <attvalue for="0" value="-0.45" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Barbara" />
+          <attvalue for="4" value="Boxer" />
+          <attvalue for="5" value="CA" />
+          <attvalue for="6" value="SenatorBoxer" />
+          <attvalue for="7" value="5" />
+        </attvalues>
+      </node>
+      <node id="1074518754" label="1074518754">
+        <attvalues>
+          <attvalue for="0" value="-0.528" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Tammy" />
+          <attvalue for="4" value="Baldwin" />
+          <attvalue for="5" value="WI" />
+          <attvalue for="6" value="SenatorBaldwin" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="19394188" label="19394188">
+        <attvalues>
+          <attvalue for="0" value="0.381" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="John" />
+          <attvalue for="4" value="McCain" />
+          <attvalue for="5" value="AZ" />
+          <attvalue for="6" value="SenJohnMcCain" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="17494010" label="17494010">
+        <attvalues>
+          <attvalue for="0" value="-0.351" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Charles" />
+          <attvalue for="4" value="Schumer" />
+          <attvalue for="5" value="NY" />
+          <attvalue for="6" value="SenSchumer" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="250188760" label="250188760">
+        <attvalues>
+          <attvalue for="0" value="-0.319" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Ron" />
+          <attvalue for="4" value="Wyden" />
+          <attvalue for="5" value="OR" />
+          <attvalue for="6" value="RonWyden" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="73303753" label="73303753">
+        <attvalues>
+          <attvalue for="0" value="0.395" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Bob" />
+          <attvalue for="4" value="Corker" />
+          <attvalue for="5" value="TN" />
+          <attvalue for="6" value="SenBobCorker" />
+          <attvalue for="7" value="11" />
+        </attvalues>
+      </node>
+      <node id="10615232" label="10615232">
+        <attvalues>
+          <attvalue for="0" value="0.342" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Charles" />
+          <attvalue for="4" value="Grassley" />
+          <attvalue for="5" value="IA" />
+          <attvalue for="6" value="ChuckGrassley" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="293131808" label="293131808">
+        <attvalues>
+          <attvalue for="0" value="-0.343" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Patty" />
+          <attvalue for="4" value="Murray" />
+          <attvalue for="5" value="WA" />
+          <attvalue for="6" value="PattyMurray" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="212262370" label="212262370">
+        <attvalues>
+          <attvalue for="0" value="0.375" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Daniel" />
+          <attvalue for="4" value="Coats" />
+          <attvalue for="5" value="IN" />
+          <attvalue for="6" value="SenDanCoats" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="211588974" label="211588974">
+        <attvalues>
+          <attvalue for="0" value="0.274" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Mark" />
+          <attvalue for="4" value="Kirk" />
+          <attvalue for="5" value="IL" />
+          <attvalue for="6" value="SenatorKirk" />
+          <attvalue for="7" value="4" />
+        </attvalues>
+      </node>
+      <node id="229592356" label="229592356">
+        <attvalues>
+          <attvalue for="0" value="0.351" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Kelly" />
+          <attvalue for="4" value="Ayotte" />
+          <attvalue for="5" value="NH" />
+          <attvalue for="6" value="KellyAyotte" />
+          <attvalue for="7" value="8" />
+        </attvalues>
+      </node>
+      <node id="221162525" label="221162525">
+        <attvalues>
+          <attvalue for="0" value="0.632" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Patrick" />
+          <attvalue for="4" value="Toomey" />
+          <attvalue for="5" value="PA" />
+          <attvalue for="6" value="SenToomey" />
+          <attvalue for="7" value="6" />
+        </attvalues>
+      </node>
+      <node id="14845376" label="14845376">
+        <attvalues>
+          <attvalue for="0" value="0.408" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Lindsey" />
+          <attvalue for="4" value="Graham" />
+          <attvalue for="5" value="SC" />
+          <attvalue for="6" value="GrahamBlog" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="278124059" label="278124059">
+        <attvalues>
+          <attvalue for="0" value="-0.421" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Richard" />
+          <attvalue for="4" value="Blumenthal" />
+          <attvalue for="5" value="CT" />
+          <attvalue for="6" value="SenBlumenthal" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="555474658" label="555474658">
+        <attvalues>
+          <attvalue for="0" value="0.287" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Thad" />
+          <attvalue for="4" value="Cochran" />
+          <attvalue for="5" value="MS" />
+          <attvalue for="6" value="SenThadCochran" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="476256944" label="476256944">
+        <attvalues>
+          <attvalue for="0" value="-0.267" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Dianne" />
+          <attvalue for="4" value="Feinstein" />
+          <attvalue for="5" value="CA" />
+          <attvalue for="6" value="SenFeinstein" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="486694111" label="486694111">
+        <attvalues>
+          <attvalue for="0" value="-0.382" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Jack" />
+          <attvalue for="4" value="Reed" />
+          <attvalue for="5" value="RI" />
+          <attvalue for="6" value="SenJackReed" />
+          <attvalue for="7" value="3" />
+        </attvalues>
+      </node>
+      <node id="234374703" label="234374703">
+        <attvalues>
+          <attvalue for="0" value="-0.058" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Joe" />
+          <attvalue for="4" value="Manchin" />
+          <attvalue for="5" value="WV" />
+          <attvalue for="6" value="Sen_JoeManchin" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+      <node id="193794406" label="193794406">
+        <attvalues>
+          <attvalue for="0" value="0.26" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Shelley" />
+          <attvalue for="4" value="Capito" />
+          <attvalue for="5" value="WV" />
+          <attvalue for="6" value="SenCapito" />
+          <attvalue for="7" value="1" />
+        </attvalues>
+      </node>
+      <node id="15808765" label="15808765">
+        <attvalues>
+          <attvalue for="0" value="-0.615" />
+          <attvalue for="1" value="D" />
+          <attvalue for="2" value="D" />
+          <attvalue for="3" value="Cory" />
+          <attvalue for="4" value="Booker" />
+          <attvalue for="5" value="NJ" />
+          <attvalue for="6" value="CoryBooker" />
+          <attvalue for="7" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="224285242" target="235217558">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="75364211" target="21269970">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="75364211" target="229592356">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="75364211" target="75364211">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="75364211" target="1071402577">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="75364211" target="968650362">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="75364211" target="217543151">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="72198806" target="15808765">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="1071402577" target="1071402577">
+        <attvalues>
+          <attvalue for="8" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="1071402577" target="229592356">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="1071402577" target="2955485182">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="1071402577" target="217543151">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="968650362" target="13218102">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="21157904" target="264219447">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="21157904" target="2964174789">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="2891210047" target="18061669">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="2891210047" target="19394188">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="2891210047" target="2863210809">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="515822213" target="11651202">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="18061669" target="339822881">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="18061669" target="19726613">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="18061669" target="555474658">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="18061669" target="78403308">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="18061669" target="1068481578">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="235217558" target="235217558">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="235217558" target="78403308">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="235217558" target="266133081">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="88784440" target="2962923040">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="88784440" target="225921757">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="18632666" target="21269970">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="18632666" target="78403308">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="18632666" target="217543151">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="18632666" target="1068481578">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="18632666" target="555474658">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="18632666" target="18632666">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="18632666" target="2863210809">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="16789970" target="242836537">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="16789970" target="19394188">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="16789970" target="29442313">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="16789970" target="293131808">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="16789970" target="221162525">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="16789970" target="16789970">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="2955485182" target="2964174789">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="2955485182" target="296361085">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="2955485182" target="339822881">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="1262099252" target="1074480192">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="16056306" target="16056306">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="249787913" target="109071031">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="249787913" target="57065141">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="249787913" target="60828944">
+        <attvalues>
+          <attvalue for="8" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="249787913" target="249787913">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="249787913" target="150078976">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="76649729" target="76649729">
+        <attvalues>
+          <attvalue for="8" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="1068481578" target="109287731">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="1068481578" target="78403308">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="1068481578" target="193794406">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="1068481578" target="19726613">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="339822881" target="339822881">
+        <attvalues>
+          <attvalue for="8" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="339822881" target="2863210809">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="60828944" target="1099199839">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="60828944" target="970207298">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="970207298" target="234374703">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="970207298" target="21406834">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="5558312" target="21269970">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="5558312" target="242836537">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="5558312" target="78403308">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="5558312" target="555474658">
+        <attvalues>
+          <attvalue for="8" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="5558312" target="968650362">
+        <attvalues>
+          <attvalue for="8" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="5558312" target="13218102">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="5558312" target="193794406">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="5558312" target="14845376">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="202206694" target="5558312">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="236511574" target="109071031">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="236511574" target="11651202">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="236511574" target="216503958">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="2962923040" target="1071402577">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="2962923040" target="2962923040">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="2962923040" target="88784440">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="233737858" target="233737858">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="233737858" target="18915145">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="92186819" target="72198806">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="92186819" target="150078976">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="92186819" target="1061029050">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="382791093" target="11651202">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="43910797" target="72198806">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="43910797" target="17494010">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="43910797" target="150078976">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="225921757" target="2863210809">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="225921757" target="2962923040">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="225921757" target="20546536">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="225921757" target="339822881">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="225921757" target="225921757">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="225921757" target="193794406">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="225921757" target="217543151">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="225921757" target="211588974">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="7429102" target="76456274">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="7429102" target="7429102">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="76456274" target="132278386">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="2964174789" target="2964174789">
+        <attvalues>
+          <attvalue for="8" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="2964174789" target="29442313">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="2964174789" target="217543151">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="2964174789" target="78403308">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="2964174789" target="600463589">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="2964174789" target="109287731">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="2964174789" target="72198806">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="2964174789" target="18915145">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="2964174789" target="193794406">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="2964174789" target="2891210047">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="109287731" target="15442036">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="109287731" target="242555999">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="132278386" target="242555999">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="132278386" target="17494010">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="57065141" target="21157904">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="57065141" target="72198806">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="57065141" target="57065141">
+        <attvalues>
+          <attvalue for="8" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="296361085" target="1071402577">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="2863210809" target="78403308">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="2863210809" target="225921757">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="2863210809" target="73303753">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="2863210809" target="217543151">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="216503958" target="216503958">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="600463589" target="264219447">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="600463589" target="250188760">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="78403308" target="78403308">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="171968009" target="29201047">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="171968009" target="1074518754">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="171968009" target="250188760">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="171968009" target="1061029050">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="171968009" target="242836537">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="171968009" target="150078976">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="11651202" target="515822213">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="11651202" target="235217558">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="11651202" target="11651202">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="11651202" target="217543151">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="11651202" target="1068481578">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="217543151" target="10615232">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="217543151" target="16056306">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="217543151" target="75364211">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="217543151" target="229592356">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="217543151" target="18061669">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="217543151" target="13218102">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="217543151" target="266133081">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="217543151" target="217543151">
+        <attvalues>
+          <attvalue for="8" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="15442036" target="476256944">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="15442036" target="15442036">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="15442036" target="43910797">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="15442036" target="16789970">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="19394188" target="968650362">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="73303753" target="2964174789">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="73303753" target="109071031">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="73303753" target="78403308">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="73303753" target="2891210047">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="73303753" target="73303753">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="73303753" target="212262370">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="73303753" target="150078976">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="73303753" target="1061029050">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="73303753" target="217543151">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="73303753" target="211588974">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="212262370" target="221162525">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="212262370" target="78403308">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="212262370" target="212262370">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="212262370" target="1071402577">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="212262370" target="109287731">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="212262370" target="193794406">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="211588974" target="72198806">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="211588974" target="211588974">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="229592356" target="229592356">
+        <attvalues>
+          <attvalue for="8" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="229592356" target="216503958">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="229592356" target="278124059">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="221162525" target="21157904">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="221162525" target="17494010">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="221162525" target="211588974">
+        <attvalues>
+          <attvalue for="8" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="555474658" target="555474658">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="486694111" target="242555999">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="193794406" target="2955485182">
+        <attvalues>
+          <attvalue for="8" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="8" title="filtered_tweet_count" type="long" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="dw_nominate" type="double" />
+      <attribute id="1" title="inferred_party" type="string" />
+      <attribute id="2" title="party" type="string" />
+      <attribute id="3" title="first_name" type="string" />
+      <attribute id="4" title="last_name" type="string" />
+      <attribute id="5" title="state" type="string" />
+      <attribute id="6" title="twitter_account" type="string" />
+      <attribute id="7" title="filtered_tweet_count" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>09/04/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="234797704" label="234797704">
+        <attvalues>
+          <attvalue for="0" value="0.572" />
+          <attvalue for="1" value="R" />
+          <attvalue for="2" value="R" />
+          <attvalue for="3" value="Austin" />
+          <attvalue for="4" value="Scott" />
+          <attvalue for="5" value="GA" />
+          <attvalue for="6" value="AustinScottGA08" />
+          <attvalue for="7" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="234797704" target="234797704">
+        <attvalues>
+          <attvalue for="8" value="2" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
